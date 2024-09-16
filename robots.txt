@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://suukl.github.io/GVB/sitemap.GVB.gz
